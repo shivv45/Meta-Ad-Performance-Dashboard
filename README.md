@@ -30,8 +30,8 @@ An interactive **Power BI dashboard** designed to analyze Meta advertising perfo
 
   ## 📊 Dashboard Preview
 
-![Facebook Ad Performance](Screenshots/Facebook_Ad_Performance.png)
-![Instagram Ad Performance](Screenshots/Instagram_Ad_Performance.png)
+![Facebook Ad Performance]([Screenshots/Facebook_Ad_Performance.png](https://github.com/shivv45/Meta-Ad-Performance-Dashboard/blob/main/Facebook%20Ad%20Performance.png))
+![Instagram Ad Performance]([Screenshots/Instagram_Ad_Performance.png](https://github.com/shivv45/Meta-Ad-Performance-Dashboard/blob/main/Instagram%20Ad%20Performance.png))
 
 
 ## 🎯 Objective
