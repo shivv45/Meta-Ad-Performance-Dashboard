@@ -28,11 +28,6 @@ An interactive **Power BI dashboard** designed to analyze Meta advertising perfo
 - Ad type analysis
 - Campaign and interest filtering
 
-## 📷 Dashboard Preview
-
-![Facebook Dashboard](Facebook_Ad_Performance.png)
-
-![Instagram Dashboard](Instagram_Ad_Performance.png)
 
 ## 🎯 Objective
 To provide actionable insights into **ad performance, audience behavior, campaign effectiveness, and marketing trends** using Power BI.
